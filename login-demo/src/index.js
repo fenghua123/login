@@ -1,7 +1,7 @@
-import login from './login-web.vue';
+import MyLogin from './login-web.vue';
 
 const components = [
-    login
+  MyLogin
 ]
 const install = function (Vue, opts = {}) {
   components.map(component => {
@@ -14,4 +14,4 @@ if (typeof window !== 'undefined' && window.Vue) {
   install(window.Vue)
 }
 
-export default {install, login}
+export default {install, MyLogin}
