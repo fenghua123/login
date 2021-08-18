@@ -2,9 +2,9 @@ import Vue from 'vue'
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
 import App from './App.vue'
-import MyLogin from './index'
+import MyLoginCom from './index'
 
-Vue.use(MyLogin);
+Vue.use(MyLoginCom);
 Vue.use(ElementUI);
 
 new Vue({

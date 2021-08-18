@@ -6,8 +6,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'MyLogin.js',
-    library:'MyLogin',
+    filename: 'MyLoginCom.js',
+    library:'MyLoginCom',
     libraryTarget:'umd',
     umdNamedDefine:true
   },
