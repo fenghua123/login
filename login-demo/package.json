@@ -1,7 +1,7 @@
 {
-  "name": "login-demo",
+  "name": "my-first-component",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "lifh3 <lifh3@lenovo.com>",
   "license": "MIT",
   "private": false,
