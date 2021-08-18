@@ -1,4 +1,4 @@
-import login from './components/login-web.vue'
+import login from './login-web.vue';
 
 const components = [
     login
