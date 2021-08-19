@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-   <MyLoginCom></MyLoginCom>
+   <!-- <login-web></login-web> -->
+   <!-- 9999 -->
   </div>
 </template>
 

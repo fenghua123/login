@@ -76,7 +76,7 @@
 // const sha256 = require("js-sha256").sha256; //引入sha256库
 // let Base64 = require("js-base64").Base64; //引入base64库
 export default {
-  name: "login",
+  name: "login-web",
   data() {
     var regnum = /^[0-9a-zA-Z~!@#$%^&*]+$/;
     const checkinfo = (rule, value, callback) => {
